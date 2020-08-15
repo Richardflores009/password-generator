@@ -9,4 +9,4 @@ Password generator that has a range from 8 to 128 characters. you will be prompt
 
 ## Link to deployed application
 ******************************************************************************************************************************************************************************************************************************
-[Password-generator webpage link] (https://richardflores009.github.io/Horiseon/)
+[Password-generator webpage link] (https://richardflores009.github.io/password-generator1/)
