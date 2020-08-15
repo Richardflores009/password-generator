@@ -1,3 +1,5 @@
+#I had more commits and branches but i had to delete my repo because pages wasnt recognizing my files!
+
 # password-generator
 ******************************************************************************************************************************************************************************************************************************
 Week 3: Challenge
